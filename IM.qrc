@@ -1,0 +1,69 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Cards/B.1.jpg</file>
+        <file>Cards/B.2.jpg</file>
+        <file>Cards/B.3.jpg</file>
+        <file>Cards/B.4.jpg</file>
+        <file>Cards/B.5.jpg</file>
+        <file>Cards/B.6.jpg</file>
+        <file>Cards/B.7.jpg</file>
+        <file>Cards/B.8.jpg</file>
+        <file>Cards/B.9.jpg</file>
+        <file>Cards/B.10.jpg</file>
+        <file>Cards/B.11.jpg</file>
+        <file>Cards/B.12.jpg</file>
+        <file>Cards/C.1.jpg</file>
+        <file>Cards/C.2.jpg</file>
+        <file>Cards/C.3.jpg</file>
+        <file>Cards/C.4.jpg</file>
+        <file>Cards/C.5.jpg</file>
+        <file>Cards/C.6.jpg</file>
+        <file>Cards/C.7.jpg</file>
+        <file>Cards/C.8.jpg</file>
+        <file>Cards/C.9.jpg</file>
+        <file>Cards/C.10.jpg</file>
+        <file>Cards/C.11.jpg</file>
+        <file>Cards/C.12.jpg</file>
+        <file>Cards/O.1.jpg</file>
+        <file>Cards/O.2.jpg</file>
+        <file>Cards/O.3.jpg</file>
+        <file>Cards/O.4.jpg</file>
+        <file>Cards/O.5.jpg</file>
+        <file>Cards/O.6.jpg</file>
+        <file>Cards/O.7.jpg</file>
+        <file>Cards/O.8.jpg</file>
+        <file>Cards/O.9.jpg</file>
+        <file>Cards/O.10.jpg</file>
+        <file>Cards/O.11.jpg</file>
+        <file>Cards/O.12.jpg</file>
+        <file>Cards/P.1.jpg</file>
+        <file>Cards/P.2.jpg</file>
+        <file>Cards/P.3.jpg</file>
+        <file>Cards/P.4.jpg</file>
+        <file>Cards/P.5.jpg</file>
+        <file>Cards/P.6.jpg</file>
+        <file>Cards/P.7.jpg</file>
+        <file>Cards/P.8.jpg</file>
+        <file>Cards/P.9.jpg</file>
+        <file>Cards/P.10.jpg</file>
+        <file>Cards/P.11.jpg</file>
+        <file>Cards/P.12.jpg</file>
+        <file>Images/_8a2ccf19-ad68-4f68-95c7-734c0d82352c-removebg-preview-removebg-preview.png</file>
+        <file>Images/anime.jpg</file>
+        <file>Images/COPIE.jpeg</file>
+        <file>Images/CUTE.png</file>
+        <file>Images/DBBBBB.jpg</file>
+        <file>Images/DIFFICILE.png</file>
+        <file>Images/Projet Redimensionner une image (2).png</file>
+        <file>Images/Projet Redimensionner une image.png</file>
+        <file>Images/WhatsApp Image 2023-12-09 at 07.54.00.jpeg</file>
+        <file>Images/WhatsApp_Image_2023-12-09_at_07.54.00-removebg-preview.png</file>
+        <file>Images/Projet Redimensionner une image.jpeg</file>
+        <file>Images/_8a2ccf19-ad68-4f68-95c7-734c0d82352c-removebg-preview-removebg-preview-removebg-preview.png</file>
+        <file>Cards/back.jpg</file>
+        <file>Images/bois de background.jpg</file>
+        <file>Images/hi.jpg</file>
+        <file>Images/bois2.jpg</file>
+        <file>Images/cute1.jpg</file>
+    </qresource>
+</RCC>
